@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "ms-python.pylint",
+    "notebook.defaultFormatter": "ms-python.pylint"
+}
