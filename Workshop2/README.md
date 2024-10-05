@@ -1,2 +1,6 @@
 # Electronic-shop
-A simple catalog for buying some electronic devices
+
+Dev:
+Miguel Andres Contreras Rodriguez
+
+This is the improvment of "Workshop1"
